@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1705692226,
+      "datetime": 1705689617,
       "filename": "RedBirdROM-14-A_Bird-The_Official_Cardinal-husky-20240119.zip",
       "id": "ea9b7da95c1c2485b3bc58d904c86f39fdb735a90bb605bef30654f149d5d967",
       "romtype": "Cardinal",
       "size": 1810499620,
-      "url": "https://downloads.redbirdrom.com/Updater/husky/RedBirdROM-14-A_Bird-The_Official_Cardinal-husky-20240119.zip",
+      "url": "https://sourceforge.net/projects/redbirdrom/files/husky/RedBirdROM-14-A_Bird-The_Official_Cardinal-husky-20240119.zip/download",
       "version": "14"
     }
   ]
